@@ -20,7 +20,7 @@ const int MOD = 1e9+7;
 
 void solve(){
 	ll n, k, aux = 0, ans = 0;
-	string s, binary;
+	string s;
 	char c;
 	set<char> able;
 	cin >> n >> k;
